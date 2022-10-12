@@ -6,10 +6,10 @@ Embedded Systems Developer
 
 *   🌍  I'm based in Bangalore
 *   ✉️  You can contact me at [sikandar.udupi@gmail.com](mailto:sikandar.udupi@gmail.com)
-*   🚀  I'm currently working on [Brakes Software for Transit Trains](http://wabtec.com)
-*   🧠  I'm learning Currently learning to contribute to open source projects.
+*   🚀  I'm currently working on [Brakes Software for Transit Trains]
+*   🧠  I'm Currently learning to contribute to open source projects.
 *   🤝  I'm open to collaborating on Embedded Projects, Open Source Projects
-*   ⚡  Nothing Special
+*   ⚡  Nothing Special, just [leet code addict](https://leetcode.com/sikku/)
 
 <a href="https://www.twitter.com/sikku" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/sikku?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
